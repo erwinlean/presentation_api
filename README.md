@@ -1,3 +1,5 @@
+# Last update 4 month ago, need to update the api doc.
+
 ## Game api to save information in DB, and traslate to the presentation web
 
 Returns:
